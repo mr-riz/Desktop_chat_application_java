@@ -1,6 +1,6 @@
 # Desktop_chat_application_java
 This is GUI based desktop chat application(client/server chat application)
-                                          GUI BASE CHAT APPLICATION(PROJECT) (LANGUAGE JAVA) (desktop application)
+                                         # GUI BASE CHAT APPLICATION(PROJECT) (LANGUAGE JAVA) (desktop application)
 REQUIREMENT
 1)	JAVA BASICS[OOPS]
 2)	READING AND WRITING
@@ -25,6 +25,7 @@ HOW WE CAN PROGRAM THIS APPLICATION
 4)	STREAM(I/0) BOTH END
 5)	READ/WRITE
 
- ![Screenshot 2021-08-24 105654](https://user-images.githubusercontent.com/67002071/130563624-92ccf614-e85c-4bb1-8720-778c765fd65c.png)
+![ok2](https://user-images.githubusercontent.com/67002071/130566542-8e36c07f-9d49-411c-8834-8c33ca34e7b9.png)
+
 
 
