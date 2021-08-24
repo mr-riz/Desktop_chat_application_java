@@ -1,6 +1,6 @@
 # Desktop_chat_application_java
-This is GUI based desktop chat application(client/server chat application)
-                                         # GUI BASE CHAT APPLICATION(PROJECT) (LANGUAGE JAVA) (desktop application)
+Discription *This is GUI based desktop chat application(client/server chat application*
+# GUI BASE CHAT APPLICATION(PROJECT) (LANGUAGE JAVA) (desktop application)
 REQUIREMENT
 1)	JAVA BASICS[OOPS]
 2)	READING AND WRITING
