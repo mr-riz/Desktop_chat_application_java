@@ -12,9 +12,12 @@ APPROACH
 1)	CONCEPT
 2)	CONSOLE BASED
 3)	GUI BASED
- ![Screenshot 2021-08-24 103340](https://user-images.githubusercontent.com/67002071/130563590-e778d641-2040-4e61-add8-e5a0091d55f5.png)
 
-                                                                SAME COMPUTER
+ ![ok](https://user-images.githubusercontent.com/67002071/130565995-31ca3a1f-644e-4713-b40d-3bb17570c54a.png)
+ for same computer
+
+
+                                                                
 HOW WE CAN PROGRAM THIS APPLICATION
 1)	SERVER SOCKET
 2)	CLIENT
