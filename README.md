@@ -27,6 +27,8 @@ HOW WE CAN PROGRAM THIS APPLICATION
 
 ![ok2](https://user-images.githubusercontent.com/67002071/130566542-8e36c07f-9d49-411c-8834-8c33ca34e7b9.png)
 
-What is socket: A socket is an endpoint for communicationbetween two machines.
-What is Server Socket: A server socket waits forrequests to come in over the network. It performs some operationbased on that request, and then possibly returns a result to the requester
+##### What is socket:
+ A socket is an endpoint for communicationbetween two machines.
+##### What is Server Socket:
+A server socket waits forrequests to come in over the network. It performs some operationbased on that request, and then possibly returns a result to the requester
 
